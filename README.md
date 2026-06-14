@@ -1,4 +1,4 @@
-# 🎬 AI Script & Plot Generator
+# 🎬 AI Small Language Model Training Script & Plot Generator
 
 A lightweight Streamlit web application that uses a fine-tuned text generation model (based on `distilgpt2`) to generate creative movie scripts and plot ideas from user-provided prompts.
 
